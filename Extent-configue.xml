@@ -1,0 +1,12 @@
+<extentreports>
+    <!-- Theme configuration -->
+    <configuration>
+        <theme>standard</theme> <!-- Options: standard or dark -->
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Test Execution Report</documentTitle>
+        <reportName>Extent Report</reportName>
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+    </configuration>
+</extentreports>

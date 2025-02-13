@@ -1,0 +1,2366 @@
+2025-02-06 08:55:42 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 08:55:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 08:55:43 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 08:55:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 08:55:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 08:55:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 08:55:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 08:55:44 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 13:11:35 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 13:11:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:11:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:11:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:11:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 13:11:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 13:11:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 13:11:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 13:11:37 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 13:38:43 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 13:38:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 13:38:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 13:38:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 13:38:44 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 13:38:44 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 13:38:45 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 13:38:45 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 13:38:45 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:12:30 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:12:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:12:31 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:12:31 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:12:33 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:12:33 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:12:33 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:12:33 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:15:53 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:54 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:55 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:15:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:15:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:15:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:15:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:15:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:15:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:15:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:18:39 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:40 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:41 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:18:41 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:18:41 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:18:41 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:18:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:18:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:18:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:18:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:18:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:23:06 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:23:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:23:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:23:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:23:07 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:23:07 [main] INFO : before loginmultiple
+2025-02-06 14:23:07 [main] INFO : after loginmultiple
+2025-02-06 14:23:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:23:08 [main] INFO : before loginmultiple
+2025-02-06 14:23:08 [main] INFO : after loginmultiple
+2025-02-06 14:23:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:23:08 [main] INFO : before loginmultiple
+2025-02-06 14:23:08 [main] INFO : after loginmultiple
+2025-02-06 14:23:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:23:08 [main] INFO : before loginmultiple
+2025-02-06 14:23:08 [main] INFO : after loginmultiple
+2025-02-06 14:23:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:23:08 [main] INFO : before loginmultiple
+2025-02-06 14:23:08 [main] INFO : after loginmultiple
+2025-02-06 14:24:12 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:24:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:24:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:24:13 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:24:13 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:24:13 [main] INFO : before loginmultiple
+2025-02-06 14:24:13 [main] INFO : after loginmultiplecom.banking.pageobject.Loginmultipledata@bf75b5c
+2025-02-06 14:24:14 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:24:14 [main] INFO : before loginmultiple
+2025-02-06 14:24:14 [main] INFO : after loginmultiplecom.banking.pageobject.Loginmultipledata@f25f48a
+2025-02-06 14:24:14 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:24:14 [main] INFO : before loginmultiple
+2025-02-06 14:24:14 [main] INFO : after loginmultiplecom.banking.pageobject.Loginmultipledata@b9d018b
+2025-02-06 14:24:14 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:24:14 [main] INFO : before loginmultiple
+2025-02-06 14:24:14 [main] INFO : after loginmultiplecom.banking.pageobject.Loginmultipledata@8bd076a
+2025-02-06 14:24:14 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:24:14 [main] INFO : before loginmultiple
+2025-02-06 14:24:14 [main] INFO : after loginmultiplecom.banking.pageobject.Loginmultipledata@66522ead
+2025-02-06 14:28:18 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:28:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:28:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:28:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:28:19 [main] INFO : before loginmultiple
+2025-02-06 14:28:19 [main] INFO : after loginmultiple
+2025-02-06 14:28:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:28:20 [main] INFO : before loginmultiple
+2025-02-06 14:28:20 [main] INFO : after loginmultiple
+2025-02-06 14:28:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:28:20 [main] INFO : before loginmultiple
+2025-02-06 14:28:20 [main] INFO : after loginmultiple
+2025-02-06 14:28:21 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:28:21 [main] INFO : before loginmultiple
+2025-02-06 14:28:21 [main] INFO : after loginmultiple
+2025-02-06 14:28:21 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:28:21 [main] INFO : before loginmultiple
+2025-02-06 14:28:21 [main] INFO : after loginmultiple
+2025-02-06 14:30:34 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 14:30:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 14:30:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 14:30:35 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 14:30:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:30:35 [main] INFO : before loginmultiple
+2025-02-06 14:30:35 [main] INFO : after loginmultiple
+2025-02-06 14:30:35 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 14:30:35 [main] INFO : before loginmultiple
+2025-02-06 14:30:35 [main] INFO : after loginmultiple
+2025-02-06 14:30:35 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 14:30:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 14:30:35 [main] INFO : before loginmultiple
+2025-02-06 14:30:35 [main] INFO : after loginmultiple
+2025-02-06 14:30:35 [main] INFO : Entered username:  truptirudnur1111@gmail.co
+2025-02-06 14:30:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 14:30:36 [main] INFO : before loginmultiple
+2025-02-06 14:30:36 [main] INFO : after loginmultiple
+2025-02-06 14:30:36 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 14:30:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 14:30:36 [main] INFO : before loginmultiple
+2025-02-06 14:30:36 [main] INFO : after loginmultiple
+2025-02-06 14:30:36 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 17:39:41 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 17:39:41 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:41 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:43 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:43 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:39:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:39:44 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:42:23 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:23 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:42:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:42:24 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:43:18 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 17:43:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:43:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:43:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:43:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 17:43:19 [main] INFO : before loginmultiple
+2025-02-06 17:43:19 [main] INFO : after loginmultiple
+2025-02-06 17:43:19 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 17:43:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 17:43:20 [main] INFO : before loginmultiple
+2025-02-06 17:43:20 [main] INFO : after loginmultiple
+2025-02-06 17:43:20 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 17:43:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 17:43:20 [main] INFO : before loginmultiple
+2025-02-06 17:43:20 [main] INFO : after loginmultiple
+2025-02-06 17:43:20 [main] INFO : Entered username:  truptirudnur1111@gmail.co
+2025-02-06 17:43:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 17:43:20 [main] INFO : before loginmultiple
+2025-02-06 17:43:20 [main] INFO : after loginmultiple
+2025-02-06 17:43:20 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 17:43:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 17:43:20 [main] INFO : before loginmultiple
+2025-02-06 17:43:20 [main] INFO : after loginmultiple
+2025-02-06 17:43:20 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-06 17:45:54 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:54 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:45:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:45:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:45:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 17:45:55 [main] INFO : before loginmultiple
+2025-02-06 17:45:55 [main] INFO : after loginmultiple
+2025-02-06 17:45:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 17:45:56 [main] INFO : before loginmultiple
+2025-02-06 17:45:56 [main] INFO : after loginmultiple
+2025-02-06 17:45:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 17:45:56 [main] INFO : before loginmultiple
+2025-02-06 17:45:56 [main] INFO : after loginmultiple
+2025-02-06 17:45:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 17:45:56 [main] INFO : before loginmultiple
+2025-02-06 17:45:56 [main] INFO : after loginmultiple
+2025-02-06 17:45:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 17:45:56 [main] INFO : before loginmultiple
+2025-02-06 17:45:56 [main] INFO : after loginmultiple
+2025-02-06 17:51:29 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:30 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:30 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:30 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:30 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 17:51:30 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 17:51:30 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 17:51:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 17:51:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 17:51:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 17:51:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 17:51:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:01:17 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:01:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:01:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:01:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:01:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 18:01:18 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 18:01:18 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 18:01:18 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:08:16 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 18:08:16 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:16 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:08:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:08:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:08:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:08:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 18:08:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 18:08:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 18:08:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:16:22 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:16:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:16:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:16:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:16:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-06 18:16:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-06 18:16:24 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-06 18:16:24 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-06 18:48:02 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-06 18:48:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-06 18:48:02 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 13:44:21 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 13:44:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 13:44:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 13:44:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 13:44:22 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 13:44:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 13:44:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 13:44:23 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 13:44:24 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 16:46:49 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:46:49 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:46:49 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:59:28 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 16:59:59 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 16:59:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 16:59:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 16:59:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:00:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:00:00 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:00:00 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 17:00:00 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 17:00:00 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 17:00:00 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 17:00:01 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 17:01:37 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:37 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:01:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:01:38 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:07:31 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:07:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:31 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:31 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:07:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:07:32 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:10:02 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:10:02 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:02 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:10:03 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:10:03 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:33:08 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:08 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:33:09 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:33:09 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:39:35 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:35 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:39:35 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:39:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:40:32 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:40:32 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:32 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:33 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:33 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:33 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:33 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:33 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:40:34 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:40:34 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:40:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 17:40:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 17:40:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 17:40:35 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 17:40:36 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 17:51:11 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:11 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:11 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:51:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:51:12 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:54:06 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 17:54:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 17:54:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 17:54:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:19:21 [main] INFO : navigating to envcong file
+2025-02-12 18:19:21 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:22 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:19:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:19:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:19:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:31:17 [main] INFO : Starting the setup...
+2025-02-12 18:31:17 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 18:31:17 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 18:31:17 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:18 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:31:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:31:18 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:35:35 [main] INFO : Starting the setup...
+2025-02-12 18:35:35 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 18:35:35 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 18:35:35 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:35:36 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:35:36 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:40:20 [main] INFO : Starting the setup...
+2025-02-12 18:40:20 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 18:40:20 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 18:40:21 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:21 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:21 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:22 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:22 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 18:40:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 18:40:22 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:15:49 [main] INFO : Starting the setup...
+2025-02-12 19:15:49 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 19:15:49 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 19:15:56 [main] INFO : Report file created: test-output/ExtentReport-1739367956216.html
+2025-02-12 19:15:56 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 19:15:56 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:56 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:15:57 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:15:57 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:15:57 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:15:57 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 19:15:58 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 19:15:58 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 19:15:58 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:15:58 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 19:17:03 [main] INFO : Starting the setup...
+2025-02-12 19:17:03 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 19:17:03 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 19:17:17 [main] INFO : Report file created: test-output/ExtentReport-1739368037423.html
+2025-02-12 19:17:17 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 19:17:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:18 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:18 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:17:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:17:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:17:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:17:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:17:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 19:17:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 19:17:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 19:17:19 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:17:20 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 19:18:50 [main] INFO : Starting the setup...
+2025-02-12 19:18:50 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 19:18:50 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 19:18:54 [main] INFO : Report file created: test-output/ExtentReport-1739368134705.html
+2025-02-12 19:18:54 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 19:18:54 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:54 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 19:18:55 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 19:18:55 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 19:18:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:18:55 [main] INFO : driver launching
+2025-02-12 19:18:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 19:18:55 [main] INFO : driver launching
+2025-02-12 19:18:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 19:18:56 [main] INFO : driver launching
+2025-02-12 19:18:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 19:18:56 [main] INFO : driver launching
+2025-02-12 19:18:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 19:18:56 [main] INFO : driver launching
+2025-02-12 19:18:56 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 21:06:48 [main] INFO : Starting the setup...
+2025-02-12 21:06:48 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 21:06:48 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 21:06:51 [main] INFO : Report file created: test-output/ExtentReport-1739374611073.html
+2025-02-12 21:06:51 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 21:06:51 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:51 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:51 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:51 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:06:52 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:06:52 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:06:52 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:06:52 [main] INFO : driver launching
+2025-02-12 21:06:55 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 21:06:55 [main] INFO : driver launching
+2025-02-12 21:06:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 21:06:56 [main] INFO : driver launching
+2025-02-12 21:06:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 21:06:56 [main] INFO : driver launching
+2025-02-12 21:06:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:06:56 [main] INFO : driver launching
+2025-02-12 21:06:56 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 21:12:05 [main] INFO : Starting the setup...
+2025-02-12 21:12:05 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 21:12:05 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 21:12:13 [main] INFO : Report file created: test-output/ExtentReport-1739374933013.html
+2025-02-12 21:12:13 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 21:12:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:12:15 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:12:15 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:12:15 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:12:15 [main] INFO : driver launching
+2025-02-12 21:12:15 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:12:16 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 21:12:16 [main] INFO : driver launching
+2025-02-12 21:12:16 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:12:16 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 21:12:16 [main] INFO : driver launching
+2025-02-12 21:12:16 [main] INFO : Entered username:  truptirudnur1111@gmail.co
+2025-02-12 21:12:16 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 21:12:16 [main] INFO : driver launching
+2025-02-12 21:12:16 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:12:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:12:17 [main] INFO : driver launching
+2025-02-12 21:12:17 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:12:17 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 21:14:51 [main] INFO : Starting the setup...
+2025-02-12 21:14:51 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 21:14:51 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 21:15:05 [main] INFO : Report file created: test-output/ExtentReport-1739375105740.html
+2025-02-12 21:15:05 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 21:15:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:08 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 21:15:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:08 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:15:08 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:15:08 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:15:08 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:15:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:15:08 [main] INFO : driver launching
+2025-02-12 21:15:08 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:15:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 21:15:08 [main] INFO : driver launching
+2025-02-12 21:15:08 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:15:08 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 21:15:08 [main] INFO : driver launching
+2025-02-12 21:15:08 [main] INFO : Entered username:  truptirudnur1111@gmail.co
+2025-02-12 21:15:09 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 21:15:09 [main] INFO : driver launching
+2025-02-12 21:15:09 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:15:09 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:15:09 [main] INFO : driver launching
+2025-02-12 21:15:09 [main] INFO : Entered username:  truptirudnur1111@gmail.com
+2025-02-12 21:15:09 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 21:26:09 [main] INFO : Starting the setup...
+2025-02-12 21:26:09 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 21:26:09 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 21:26:22 [main] INFO : Report file created: test-output/ExtentReport-1739375782187.html
+2025-02-12 21:26:22 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 21:26:22 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:22 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:23 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:23 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:24 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 21:26:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:24 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:26:24 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:26:24 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:26:24 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:26:24 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:26:24 [main] INFO : driver launching
+2025-02-12 21:26:25 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 21:26:25 [main] INFO : driver launching
+2025-02-12 21:26:25 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 21:26:25 [main] INFO : driver launching
+2025-02-12 21:26:25 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 21:26:25 [main] INFO : driver launching
+2025-02-12 21:26:26 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 21:26:26 [main] INFO : driver launching
+2025-02-12 21:26:26 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 21:56:51 [main] INFO : Starting the setup...
+2025-02-12 21:56:51 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 21:56:51 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 21:57:04 [main] INFO : Report file created: test-output/ExtentReport-1739377624649.html
+2025-02-12 21:57:04 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 21:57:04 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:04 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:06 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 21:57:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 21:57:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 21:57:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 21:57:09 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 22:14:24 [main] INFO : Starting the setup...
+2025-02-12 22:14:24 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 22:14:24 [main] INFO : Navigating to environment URL: https://demo.guru99.com/insurance/v1/index.php
+2025-02-12 22:14:27 [main] INFO : Report file created: test-output/ExtentReport-1739378667161.html
+2025-02-12 22:14:27 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:27 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:27 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 22:14:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 22:14:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 22:14:28 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 22:14:28 [main] INFO : driver launching
+2025-02-12 22:14:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 22:14:43 [main] INFO : driver launching
+2025-02-12 22:14:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 22:14:43 [main] INFO : driver launching
+2025-02-12 22:14:43 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 22:14:43 [main] INFO : driver launching
+2025-02-12 22:14:44 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 22:14:44 [main] INFO : driver launching
+2025-02-12 22:14:44 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 23:01:51 [main] INFO : Starting the setup...
+2025-02-12 23:01:51 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 23:01:58 [main] INFO : Report file created: test-output/ExtentReport-1739381518565.html
+2025-02-12 23:01:58 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 23:01:58 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:58 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:01:59 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:01:59 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:02:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:02:00 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:02:00 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:02:00 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:02:00 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:02:00 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-12 23:04:55 [main] INFO : Starting the setup...
+2025-02-12 23:04:55 [main] INFO : Using environment passed from TestNG: testing
+2025-02-12 23:05:04 [main] INFO : Report file created: test-output/ExtentReport-1739381704728.html
+2025-02-12 23:05:04 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-12 23:05:04 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:04 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:05 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:05 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:06 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:06 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-12 23:05:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-12 23:05:06 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-12 23:05:06 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 23:05:06 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-12 23:05:11 [main] DEBUG: Entered password: abc@123
+2025-02-12 23:05:18 [main] DEBUG: Clicked the login button
+2025-02-12 23:05:18 [main] INFO : Login attempt was successful.
+2025-02-12 23:05:18 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-12 23:05:18 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-12 23:05:23 [main] DEBUG: Entered password: abc@12
+2025-02-12 23:05:31 [main] DEBUG: Clicked the login button
+2025-02-12 23:05:31 [main] INFO : Login attempt was successful.
+2025-02-12 23:05:31 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-12 23:05:31 [main] DEBUG: Entered username:  truptirudnur1111@gmail.co
+2025-02-12 23:05:36 [main] DEBUG: Entered password: abc@123
+2025-02-12 23:05:44 [main] DEBUG: Clicked the login button
+2025-02-12 23:05:44 [main] INFO : Login attempt was successful.
+2025-02-12 23:05:44 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-12 23:05:44 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-12 23:05:49 [main] DEBUG: Entered password: abc@120
+2025-02-12 23:05:56 [main] DEBUG: Clicked the login button
+2025-02-12 23:05:56 [main] INFO : Login attempt was successful.
+2025-02-12 23:05:56 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-12 23:05:56 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-12 23:06:01 [main] DEBUG: Entered password: abc@123
+2025-02-12 23:06:09 [main] DEBUG: Clicked the login button
+2025-02-12 23:06:09 [main] INFO : Login attempt was successful.
+2025-02-12 23:06:09 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:16:41 [main] INFO : Starting the setup...
+2025-02-13 11:16:41 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:16:41 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:16:42 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:16:42 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:05 [main] INFO : Starting the setup...
+2025-02-13 11:17:05 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:17:06 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:17:06 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:06 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:07 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:07 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:29 [main] INFO : Starting the setup...
+2025-02-13 11:17:29 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:17:38 [main] INFO : Report file created: test-output/ExtentReport-1739425658192.html
+2025-02-13 11:17:38 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:17:38 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:38 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:40 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:40 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:41 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:41 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:17:41 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:17:41 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:17:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:17:41 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:17:46 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:17:52 [main] DEBUG: Clicked the login button
+2025-02-13 11:17:52 [main] INFO : Login attempt was successful.
+2025-02-13 11:17:52 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-13 11:17:52 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:17:58 [main] DEBUG: Entered password: abc@12
+2025-02-13 11:18:04 [main] DEBUG: Clicked the login button
+2025-02-13 11:18:04 [main] INFO : Login attempt was successful.
+2025-02-13 11:18:04 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-13 11:18:04 [main] DEBUG: Entered username:  truptirudnur1111@gmail.co
+2025-02-13 11:18:09 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:18:20 [main] DEBUG: Clicked the login button
+2025-02-13 11:18:20 [main] INFO : Login attempt was successful.
+2025-02-13 11:18:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-13 11:18:20 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:18:25 [main] DEBUG: Entered password: abc@120
+2025-02-13 11:18:31 [main] DEBUG: Clicked the login button
+2025-02-13 11:18:31 [main] INFO : Login attempt was successful.
+2025-02-13 11:18:31 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:18:31 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:18:36 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:18:43 [main] DEBUG: Clicked the login button
+2025-02-13 11:18:43 [main] INFO : Login attempt was successful.
+2025-02-13 11:18:43 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:23:13 [main] INFO : Starting the setup...
+2025-02-13 11:23:13 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:23:19 [main] INFO : Report file created: test-output/ExtentReport-1739425999077.html
+2025-02-13 11:23:19 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:19 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:23:19 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:23:20 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:23:20 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:23:20 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:23:25 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:23:32 [main] DEBUG: Clicked the login button
+2025-02-13 11:23:32 [main] INFO : Login attempt was successful.
+2025-02-13 11:23:32 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-13 11:23:32 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:23:37 [main] DEBUG: Entered password: abc@12
+2025-02-13 11:23:47 [main] DEBUG: Clicked the login button
+2025-02-13 11:23:47 [main] INFO : Login attempt was successful.
+2025-02-13 11:23:47 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-13 11:23:47 [main] DEBUG: Entered username:  truptirudnur1111@gmail.co
+2025-02-13 11:23:52 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:23:59 [main] DEBUG: Clicked the login button
+2025-02-13 11:23:59 [main] INFO : Login attempt was successful.
+2025-02-13 11:23:59 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-13 11:23:59 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:24:04 [main] DEBUG: Entered password: abc@120
+2025-02-13 11:24:10 [main] DEBUG: Clicked the login button
+2025-02-13 11:24:10 [main] INFO : Login attempt was successful.
+2025-02-13 11:24:10 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:24:10 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:24:15 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:24:23 [main] DEBUG: Clicked the login button
+2025-02-13 11:24:23 [main] INFO : Login attempt was successful.
+2025-02-13 11:24:23 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:49:09 [main] INFO : Starting the setup...
+2025-02-13 11:49:09 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:49:16 [main] INFO : Report file created: test-output/ExtentReport-1739427556054.html
+2025-02-13 11:49:16 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:16 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:49:17 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:49:17 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:49:17 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:49:17 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:49:22 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:49:29 [main] DEBUG: Clicked the login button
+2025-02-13 11:49:29 [main] INFO : Login attempt was successful.
+2025-02-13 11:49:29 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-13 11:49:30 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:49:35 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:52:01 [main] INFO : Starting the setup...
+2025-02-13 11:52:01 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:52:12 [main] INFO : Report file created: test-output/ExtentReport-1739427732053.html
+2025-02-13 11:52:12 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:52:12 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:12 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:13 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:13 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:13 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel: abc@12
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:52:14 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:52:14 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:52:14 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:52:15 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:52:20 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:52:29 [main] DEBUG: Clicked the login button
+2025-02-13 11:52:29 [main] INFO : Login attempt was successful.
+2025-02-13 11:52:29 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@12
+2025-02-13 11:52:29 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:52:34 [main] DEBUG: Entered password: abc@12
+2025-02-13 11:52:41 [main] DEBUG: Clicked the login button
+2025-02-13 11:52:41 [main] INFO : Login attempt was successful.
+2025-02-13 11:52:41 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-13 11:52:41 [main] DEBUG: Entered username:  truptirudnur1111@gmail.co
+2025-02-13 11:52:46 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:52:53 [main] DEBUG: Clicked the login button
+2025-02-13 11:52:53 [main] INFO : Login attempt was successful.
+2025-02-13 11:52:53 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-13 11:52:54 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:52:59 [main] DEBUG: Entered password: abc@120
+2025-02-13 11:53:05 [main] DEBUG: Clicked the login button
+2025-02-13 11:53:05 [main] INFO : Login attempt was successful.
+2025-02-13 11:53:05 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:53:05 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:53:10 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:53:16 [main] DEBUG: Clicked the login button
+2025-02-13 11:53:16 [main] INFO : Login attempt was successful.
+2025-02-13 11:53:16 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:53:18 [main] INFO : No temporary Excel file found to delete.
+2025-02-13 11:55:36 [main] INFO : Starting the setup...
+2025-02-13 11:55:36 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 11:55:44 [main] INFO : Report file created: test-output/ExtentReport-1739427944048.html
+2025-02-13 11:55:44 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 11:55:44 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:44 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:45 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:45 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:45 [main] DEBUG: Loaded data from Excel:  tru
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:45 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel: 9.0
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 11:55:46 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 11:55:46 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 11:55:46 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:55:47 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:55:52 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:55:57 [main] DEBUG: Clicked the login button
+2025-02-13 11:55:57 [main] INFO : Login attempt was successful.
+2025-02-13 11:55:57 [main] INFO : Attempting to log in with email:  tru and Password: 9.0
+2025-02-13 11:55:58 [main] DEBUG: Entered username:  tru
+2025-02-13 11:56:03 [main] DEBUG: Entered password: 9.0
+2025-02-13 11:56:10 [main] DEBUG: Clicked the login button
+2025-02-13 11:56:10 [main] INFO : Login attempt was successful.
+2025-02-13 11:56:10 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-13 11:56:10 [main] DEBUG: Entered username:  truptirudnur1111@gmail.co
+2025-02-13 11:56:15 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:56:22 [main] DEBUG: Clicked the login button
+2025-02-13 11:56:22 [main] INFO : Login attempt was successful.
+2025-02-13 11:56:22 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-13 11:56:22 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:56:27 [main] DEBUG: Entered password: abc@120
+2025-02-13 11:56:33 [main] DEBUG: Clicked the login button
+2025-02-13 11:56:33 [main] INFO : Login attempt was successful.
+2025-02-13 11:56:33 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 11:56:33 [main] DEBUG: Entered username:  truptirudnur1111@gmail.com
+2025-02-13 11:56:39 [main] DEBUG: Entered password: abc@123
+2025-02-13 11:56:45 [main] DEBUG: Clicked the login button
+2025-02-13 11:56:45 [main] INFO : Login attempt was successful.
+2025-02-13 11:56:45 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 11:56:46 [main] INFO : No temporary Excel file found to delete.
+2025-02-13 12:12:18 [main] INFO : Starting the setup...
+2025-02-13 12:12:18 [main] INFO : Using environment passed from TestNG: testing
+2025-02-13 12:12:27 [main] INFO : Report file created: test-output/ExtentReport-1739428947086.html
+2025-02-13 12:12:27 [main] INFO : Reading data from Excel file at: C:\Users\trupt\eclipse-workspace\project1\Banking/src/test/java/com/banking/testdata/Book1.xlsx
+2025-02-13 12:12:27 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:27 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:28 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:28 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:28 [main] DEBUG: Loaded data from Excel:  tru
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:28 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel: 9.0
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.co
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel: abc@120
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:29 [main] DEBUG: Loaded data from Excel:  truptirudnur1111@gmail.com
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-13 12:12:29 [main] DEBUG: Parsing relationship: /_rels/.rels
+2025-02-13 12:12:30 [main] DEBUG: Loaded data from Excel: abc@123
+2025-02-13 12:12:30 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 12:12:40 [main] INFO : Attempting to log in with email:  tru and Password: 9.0
+2025-02-13 12:12:51 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.co and Password: abc@123
+2025-02-13 12:13:01 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@120
+2025-02-13 12:13:12 [main] INFO : Attempting to log in with email:  truptirudnur1111@gmail.com and Password: abc@123
+2025-02-13 12:13:22 [main] INFO : Closing the WebDriver and flushing reports...
+2025-02-13 12:13:23 [main] INFO : No temporary Excel file found to delete.
